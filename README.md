@@ -3,8 +3,8 @@
 ## Learning Goals
 
 - Explain how to fetch data with `fetch()`
-- Working around backwards compatibility issues
-- Identify examples of the AJAX technique on popular websites
+- Working around backwards compatibility issues.
+- Identify examples of the AJAX technique on popular websites.
 
 ## Introduction
 
